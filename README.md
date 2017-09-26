@@ -24,6 +24,11 @@ docker build --tag="thomas67/mule-sap-data-retrieval" .
 App specific Mule ESB Enterprise Container
 ---------------
 
+Pull the image:
+
+```bash
+docker pull thomas67/mule-sap-data-retrieval
+```
 Start app specific image:
 
 ```bash
