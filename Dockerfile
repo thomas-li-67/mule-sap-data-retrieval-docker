@@ -1,4 +1,4 @@
-FROM thomas67/mule-ee:latest
+FROM thomas67/mule-ee-docker:latest
 
 MAINTAINER Thomas Li <thomas_li@aliyun.com>
 
